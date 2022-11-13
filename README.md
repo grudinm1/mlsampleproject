@@ -1,5 +1,7 @@
 # Predicting Student Performance in High School Math 
-This project uses machine learning regression and classification algorithms to predict the final math scores of students from two Portuguese schools, based on various demographic and social factors.  Using multiple linear regression and decision tree classification, the identification of important features, results of linearity testing, and model accuracy in predicting on new data is developed and displayed.
+This project uses machine learning regression and classification algorithms to predict the final math scores of students from two Portuguese schools, based on various demographic and social factors.  Using multiple linear regression and decision tree classification, the identification of important features, results of linearity testing, and model accuracy in predicting on new data is developed and displayed.  
+
+The results of this project can be found at the end of the `Grudinschi Predicting Student Performance.ipynb` program.
 
 ### Installation
 
