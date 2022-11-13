@@ -58,7 +58,7 @@ The Data Dictionary is summarized below.
 - `activities` - extra-curricular activities (binary: yes or no)
 - `nursery` - attended nursery school (binary: yes or no)
 - `higher` - wants to take higher education (binary: yes or no)
-- `internet` - Internet access at home (binary: yes or no)
+- `internet` - internet access at home (binary: yes or no)
 - `romantic` - with a romantic relationship (binary: yes or no)
 - `famrel` - quality of family relationships (numeric: from 1 - very bad to 5 - excellent)
 - `freetime` - free time after school (numeric: from 1 - very low to 5 - very high)
