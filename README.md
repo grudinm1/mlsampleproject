@@ -28,11 +28,11 @@ You may run the code on [Jupyter Notebook](http://jupyter.org/install.html), [Go
 The code is provided in the `Grudinschi Predicting Student Performance.ipynb` notebook file.  You will also need to use the `student-mat.csv` data file.
 
 
-### Run:
+### Run
 
 Download `Grudinschi Predicting Student Performance.ipynb` notebook and `student-mat.csv` data file.  Use your preferred software to upload the two files and execute the Python program.  Ensure the two files are stored in the same folder and follow the same path.
 
-### Data:
+### Data
 Source: https://archive.ics.uci.edu/ml/datasets/student+performance
 
 The Data Dictionary is summarized below.
